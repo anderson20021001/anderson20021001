@@ -16,6 +16,7 @@
 <a href="https://discord.com/channels/@andersonandre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="llShiroll #4743" height="30" width="40" /></a>
 </p>
 
+ 
 <h3>languages and tools:</h3>
 <p> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -53,8 +54,12 @@
 </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> 
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/354431/power-bi.svg" alt="powerbi" width="40" height="40"/> 
+</a>
 </p>
+
 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>  
