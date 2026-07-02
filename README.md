@@ -1,56 +1,108 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header&fontSize=30&fontAligny=35&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Anderson+A.+S.+S;I'm+21+years+old;I+from+Brasil,+RJ;I+study+systems+development+at+Infnet;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=llMateusll&show_icons=true&count_private=true&hide_border=true&title_color=3CB371&icon_color=3CB371&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Silva de Santana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMateusll&layout=compact&hide_border=true&title_color=3CB371&text_color=3CB371&bg_color=0d1117" />
-</div>
-<div align="center">                                                                                                              
-<h3>connect with me:</h3>
-<p>
-
-<a href="https://x.com/Anderso20858457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anderso20858457" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anderson01ass/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson01ass/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/andersonandre.ofc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mateusllsilva" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@andersonandre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="llShiroll #4743" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3500&pause=1000&color=3CB371&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Anderson+Andr%C3%A9!;Backend+Developer+%7C+PHP;Business+Intelligence+Developer;Power+BI+%7C+SQL+%7C+MySQL;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 </p>
 
- 
-<h3>languages and tools:</h3>
-<p> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
+<h1 align="center">👋 Welcome to my GitHub</h1>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a> 
+## 🚀 About Me
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
-</a>
-</p>
+- 🇧🇷 Rio de Janeiro - Brazil
+- 🎓 Systems Analysis and Development Student
+- 💻 Backend Developer (PHP)
+- 📊 Business Intelligence Developer
+- 📈 Power BI Dashboard Developer
+- 🗄️ SQL Server • MySQL
+- 🌱 Learning more about Data Engineering and BI
+- ❤️ Passionate about Technology
 
+---
 
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>  
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson20021001&show_icons=true&theme=github_dark&hide_border=true&title_color=3CB371&icon_color=3CB371"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson20021001&layout=compact&theme=github_dark&hide_border=true&title_color=3CB371"/>
+
 </div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=anderson20021001&theme=github-dark&hide_border=true&ring=3CB371&fire=3CB371&currStreakLabel=3CB371"/>
+
+</div>
+
+---
+
+## 🛠 Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,js,html,css,bootstrap,mysql,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,powerbi"/>
+
+</div>
+
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anderson01ass/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="https://www.instagram.com/andersonandre.ofc/">
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+</a>
+
+<a href="https://x.com/Anderso20858457">
+<img src="https://cdn.simpleicons.org/x/ffffff" width="45"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anderson20021001&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anderson20021001&theme=github-compact&hide_border=true&color=3CB371&line=3CB371&point=FFFFFF"/>
+
+</div>
+
+---
+
+## 👀 Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=anderson20021001&style=for-the-badge&color=3CB371"/>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>
